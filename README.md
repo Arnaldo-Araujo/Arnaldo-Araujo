@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá Amigos eu sou Arnaldo Junior👋
 
-<!--
-**Arnaldo-Araujo/Arnaldo-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco sobre mim:
 
-Here are some ideas to get you started:
+- 🔭 Trabalho no Exército Brasileiro desde 2003
+- 🌱 Conclui alguns cursos de programação, e atualmente estou formalizando o nível Superior na UNITINS - Tocantins
+- 👯 Gosto muito de estar a frente de uma excelente equipe de informática dentro do Exército
+- 🤔 Até agora não tenho em minha carteira uma questão que não consegui resolver na informatica, sei que virá, mais ainda não tenho. 
+- ⚡ Atualmente focado em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="50" height="50" src="https://www.unitins.br/nPortal/Content/v3/assets/simbolo.png" />
+  
+          
+          
+          
+          
+  
+          
+   
+[Meu perfil do linkedin](https://www.linkedin.com/in/arnaldo-araujo-jr)
