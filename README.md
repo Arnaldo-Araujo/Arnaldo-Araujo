@@ -1,7 +1,8 @@
 ## Bem vindo ao meu Git Hub
-Olá Amigos, eu sou 
 # Arnaldo Junior👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnaldo-Araujo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arnaldo-Araujo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Conecte-se comigo
 
@@ -21,8 +22,6 @@ Um pouco sobre mim:
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnaldo-Araujo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arnaldo-Araujo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ⚡ Atualmente, estou focado em desenvolver minhas habilidades nas seguintes áreas:
