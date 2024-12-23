@@ -10,7 +10,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:arnaldoaraujo@unitins.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/arnaldo-araujo-jr/)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://arnaldo-araujo.github.io/home/)
+[![MeuWebSite]<img width="20" height="20" src="https://seeklogo.com/images/W/web-icon-logo-A6B586D114-seeklogo.com.png"/>](https://arnaldo-araujo.github.io/home/)
 
 ###Um pouco sobre mim:
 
