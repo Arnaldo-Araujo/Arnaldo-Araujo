@@ -10,8 +10,9 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:arnaldoaraujo@unitins.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/arnaldo-araujo-jr/)
 
-[![Meu Web Site](https://arnaldo-araujo.github.io/home)]
-Um pouco sobre mim:
+[![Web-Site]([https://arnaldo-araujo.github.io/home](https://arnaldo-araujo.github.io/home/))]
+
+###Um pouco sobre mim:
 
 🔭 Trabalho no Exército Brasileiro desde 2003, onde lidero com orgulho uma equipe de informática dedicada e competente.
 
