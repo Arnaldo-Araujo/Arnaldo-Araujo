@@ -1,6 +1,10 @@
 ## Bem vindo ao meu Git Hub
 # Arnaldo Junior👋
+## Portfólio em destaque
 
+- **i9Fute** – App Android para acompanhar o Campeonato Brasileiro em tempo real.  
+  [Disponível na Google Play](https://play.google.com/store/apps/details?id=br.com.i9android.i9fute&pcampaignid=web_share)  
+  Tecnologias: Android (Java), Firebase, AdMob, UX focado em performance e usabilidade.
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/arnaldoaraujo/)
@@ -24,6 +28,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnaldo-Araujo&theme=transparent&bg_color=416&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arnaldo-Araujo&layout=compact&bg_color=416&border_color=30A3DC&title_color=E94D5F&text_color=0F0)
+
 
 
 
