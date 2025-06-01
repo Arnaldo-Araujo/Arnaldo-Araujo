@@ -2,8 +2,8 @@
 # Arnaldo Junior👋
 ## Portfólio em destaque
 
-- **i9Fute** – App Android para acompanhar o Campeonato Brasileiro em tempo real.  
-  [Disponível na Google Play](https://play.google.com/store/apps/details?id=br.com.i9android.i9fute&pcampaignid=web_share)  
+- **i9Brasileirão** – App Android para acompanhar o Campeonato Brasileiro em tempo real.  
+  [Disponível na Google Play](https://play.google.com/store/apps/details?id=br.com.i9android.brasileirao)  
   Tecnologias: Android (Java), Firebase, AdMob, UX focado em performance e usabilidade.
 ### Conecte-se comigo
 
