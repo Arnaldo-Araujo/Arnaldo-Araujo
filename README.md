@@ -46,4 +46,6 @@ Sou desenvolvedor de software e apaixonado por tecnologia. Aqui você encontra m
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img width="50" height="50" src="https://www.unitins.br/nPortal/Content/v3/assets/simbolo.png" />
+<img width="50" height="50" src="[https://www.unitins.br/nPortal/Content/v3/assets/simbolo.png](https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-fundo-preto-Vertical.png)" />
+
 
