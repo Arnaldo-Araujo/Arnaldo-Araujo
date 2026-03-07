@@ -23,7 +23,7 @@ Sou desenvolvedor de software e apaixonado por tecnologia. Aqui você encontra m
 
 🔭 Trabalho no Exército Brasileiro desde 2003, onde lidero com orgulho uma equipe de informática dedicada e competente.
 
-🌱 Concluí diversos cursos de programação e estou em fase de conclusão do curso superior em Análise e Desenvolvimento de Sistemas pela UNITINS - Tocantins.
+🌱 Concluí diversos cursos de programação e estou em fase de conclusão do curso superior em Sistemas para Internet pela IFRS - Rio Grande do Sil.
 
 👯 Ao longo da minha carreira, enfrentei diversos desafios em tecnologia e sempre consegui resolvê-los. No entanto, sei que ainda há muitos desafios pela frente, e estou preparado para superá-los.
 
