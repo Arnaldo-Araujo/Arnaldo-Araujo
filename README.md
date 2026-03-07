@@ -38,14 +38,22 @@ Sou desenvolvedor de software e apaixonado por tecnologia. Aqui você encontra m
 
 ⚡ Atualmente, estou desenvolvendo minhas habilidades nas seguintes áreas:
 
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img width="50" height="50" src="https://www.unitins.br/nPortal/Content/v3/assets/simbolo.png" />
-<img width="50" height="50" src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-fundo-preto-Vertical.png" />
+<table border="0">
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /><br>Java</td>
+    <td align="center"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /><br>Spring</td>
+    <td align="center"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" /><br>Android</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /><br>Firebase</td>
+    <td align="center"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br>MySQL</td>
+    <td align="center"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /><br>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /><br>Linux</td>
+    <td align="center"><img width="50" height="50" src="https://www.unitins.br/nPortal/Content/v3/assets/simbolo.png" /><br>Unitins</td>
+    <td align="center"><img width="50" height="50" src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-fundo-preto-Vertical.png" /><br>IFRS</td>
+  </tr>
+</table>
 
 
