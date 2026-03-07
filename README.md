@@ -2,7 +2,7 @@
 
 # Arnaldo Junior 👋
 
-Sou desenvolvedor Android e apaixonado por tecnologia. Aqui você encontra meus projetos, experiências e estudos.
+Sou desenvolvedor de software e apaixonado por tecnologia. Aqui você encontra meus projetos, experiências e estudos.
 
 ## Portfólio em destaque
 
