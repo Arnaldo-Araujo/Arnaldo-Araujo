@@ -36,7 +36,7 @@ Em paralelo, mergulhei de cabeça no desenvolvimento de software: publiquei **7 
 ### 🪖 Sentido · `Mobile · Militar · Firebase`
 > App completo para **gestão de efetivo militar** — controle de chamadas, escalas e geração de Mapa da Força com sincronização em tempo real. Sistema ativo em produção, eliminando planilhas físicas.
  
-[![Google Play](https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)]([https://play.google.com/store](https://play.google.com/store/apps/details?id=br.com.i9android.sentido))
+[![Google Play](https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)]([https://play.google.com/store/apps/details?id=br.com.i9android.biblioteca_guiar](https://play.google.com/store/apps/details?id=br.com.i9android.sentido])
 
 **Stack:** Flutter · Dart · Firebase · Riverpod · Freezed
 
