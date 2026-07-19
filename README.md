@@ -35,14 +35,18 @@ Em paralelo, mergulhei de cabeça no desenvolvimento de software: publiquei **7 
 
 ### 🪖 Sentido · `Mobile · Militar · Firebase`
 > App completo para **gestão de efetivo militar** — controle de chamadas, escalas e geração de Mapa da Força com sincronização em tempo real. Sistema ativo em produção, eliminando planilhas físicas.
+ 
 [![Google Play](https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)]([https://play.google.com/store](https://play.google.com/store/apps/details?id=br.com.i9android.sentido))
+
 **Stack:** Flutter · Dart · Firebase · Riverpod · Freezed
 
 ---
 
 ### 💰 DinheirU · `Mobile · Finanças · Firebase`
 > Aplicativo de **orçamento e controle financeiro** em tempo real para famílias e uso individual. Suporta lançamentos simultâneos de múltiplos usuários, notificações push e comprovantes em nuvem.
+
 [![Google Play](https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)]([https://play.google.com/store])
+
 **Stack:** Flutter · Firebase Firestore · Firebase Functions · AdMob · Google Play Billing
 
 ---
