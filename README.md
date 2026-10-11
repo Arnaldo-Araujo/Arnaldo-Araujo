@@ -45,7 +45,7 @@ Em paralelo, mergulhei de cabeça no desenvolvimento de software: publiquei **7 
 ### 💰 DinheirU · `Mobile · Finanças · Firebase`
 > Aplicativo de **orçamento e controle financeiro** em tempo real para famílias e uso individual. Suporta lançamentos simultâneos de múltiplos usuários, notificações push e comprovantes em nuvem.
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store)
+[![Google Play](https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)]([https://play.google.com/store](https://play.google.com/store/apps/dev?id=6842410118866092889))
 
 **Stack:** Flutter · Firebase Firestore · Firebase Functions · AdMob · Google Play Billing
 
@@ -63,7 +63,7 @@ Em paralelo, mergulhei de cabeça no desenvolvimento de software: publiquei **7 
 ### 🧠 Biblix · `Mobile · Educação · AdMob`
 > Aplicativo educacional com **sistema de quizzes, gamificação** (níveis, pontuação e moedas) e progresso sincronizado. Monetizado com AdMob e opção de licença premium.
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store)
+[![Google Play](https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6842410118866092889)
 
 **Stack:** Flutter · Firebase · AdMob · Google Play Billing
 
