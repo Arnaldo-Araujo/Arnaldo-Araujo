@@ -121,14 +121,10 @@ Em paralelo, mergulhei de cabeça no desenvolvimento de software: publiquei **7 
 
 ## 📊 GitHub Stats
 
-<div style="display: inline_block">
-  <img align="center"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arnaldo-Araujo&theme=transparent&bg_color=416&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaldo-Araujo&layout=compact&bg_color=416&border_color=30A3DC&title_color=E94D5F&text_color=0F0" />
+</p>
 
 ---
 
